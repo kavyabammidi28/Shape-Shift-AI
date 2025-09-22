@@ -1,0 +1,8 @@
+rembg
+opencv-python
+numpy
+trimesh
+pillow
+matplotlib
+open3d
+gradio
