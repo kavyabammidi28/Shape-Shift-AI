@@ -1,0 +1,22 @@
+# 🎨 Shape Shift AI (Mini Project)
+
+## 🧠 Overview
+Shape Shift AI is a Python mini-project that can **detect geometric shapes** (circle, triangle, square, polygon) from an image and **transform or relabel them**.  
+It’s a fun beginner-friendly AI + computer vision project that demonstrates **shape detection, classification, and transformation**.
+
+---
+
+## ✨ Features
+- 🟢 Detects shapes from images using **OpenCV**
+- 🔵 Classifies basic shapes (Triangle, Square/Rectangle, Circle, Polygon)
+- 🟡 Labels shapes with bounding boxes
+- 🔴 Can be extended into an **AI-powered shape classifier**
+- 🎨 Future enhancement: Draw shapes on canvas and morph them
+
+---
+
+## ⚙️ Tech Stack
+- **Python 3** 🐍
+- **OpenCV** (image processing & contour detection)
+- **NumPy** (numerical operations)
+- *(Optional)* scikit-learn / TensorFlow (AI classification
